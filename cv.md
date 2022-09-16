@@ -6,7 +6,7 @@
 
 ---
 
-### My contact info
+### My contact info:
 
 ---
 
@@ -16,14 +16,14 @@
 
 ---
 
-### About Myself
+### About Myself:
 
 Polite, hard working experienced person with good public speaking skills. Able to deal with a wide range of people in a professional manner.
 Attentive to details and nuances. Fast learned, perceiving big amounts of information. Able to work alone or in a team.
 
 ---
 
-### Relevant Skills
+### Relevant Skills:
 
 - HTML CSS
 - Git, GitHub
@@ -31,7 +31,7 @@ Attentive to details and nuances. Fast learned, perceiving big amounts of inform
 
 ---
 
-### Code example
+### Code example:
 
 ```
 function multiply(a, b){
@@ -41,7 +41,7 @@ return a \* b
 
 ---
 
-### Courses
+### Courses:
 
 - CS50
 - RS School
@@ -50,7 +50,7 @@ return a \* b
 
 ---
 
-### Languages
+### Languages:
 
 - English : B1
 - Russian - Native
